@@ -1,0 +1,182 @@
+ [
+    {
+      "id": 1,
+      "name": "Chicken Burger",
+      "amnt": 120,
+      "shop": "Spicy Bites",
+      "foodtype": "Non-Veg",
+      "pic": "/images/Chicken_Burger.jpg",
+      "latest": true
+    },
+    {
+      "id": 2,
+      "name": "Veg Pizza",
+      "amnt": 250,
+      "shop": "Italian Corner",
+      "foodtype": "Veg",
+      "pic": "/images/Veg_Pizza.jpg",
+      "latest": false
+    },
+    {
+      "id": 3,
+      "name": "Cold Coffee",
+      "amnt": 90,
+      "shop": "Cafe Delight",
+      "foodtype": "Beverage",
+      "pic": "/images/cold_coffee.jpg",
+      "latest": true
+    },
+    {
+      "id": 4,
+      "name": "Paneer Butter Masala",
+      "amnt": 180,
+      "shop": "North Indian Dhaba",
+      "foodtype": "Veg",
+      "pic": "/images/PaneerButter_Masala.jpg",
+      "latest": false
+    },
+    {
+      "id": 5,
+      "name": "Mutton Biryani",
+      "amnt": 220,
+      "shop": "Hyderabadi Kitchen",
+      "foodtype": "Non-Veg",
+      "pic": "/images/Mutton_Briyani.jpg",
+      "latest": true
+    },
+    {
+      "id": 6,
+      "name": "Masala Dosa",
+      "amnt": 70,
+      "shop": "South Tiffins",
+      "foodtype": "Veg",
+      "pic": "/images/Masala_Dosa.jpg",
+      "latest": false
+    },
+    {
+      "id": 7,
+      "name": "French Fries",
+      "amnt": 80,
+      "shop": "Snack Hub",
+      "foodtype": "Veg",
+      "pic": "/images/French_Fries.jpg",
+      "latest": false
+    },
+    {
+      "id": 8,
+      "name": "Grilled Chicken",
+      "amnt": 200,
+      "shop": "BBQ Nation",
+      "foodtype": "Non-Veg",
+      "pic": "/images/Grilled_Chicken.jpg",
+      "latest": true
+    },
+    {
+      "id": 9,
+      "name": "Chocolate Milkshake",
+      "amnt": 110,
+      "shop": "Cafe Delight",
+      "foodtype": "Beverage",
+      "pic": "/images/Chocolate_Milkshake.jpg",
+      "latest": false
+    },
+    {
+      "id": 10,
+      "name": "Veg Fried Rice",
+      "amnt": 130,
+      "shop": "Chinese Express",
+      "foodtype": "Veg",
+      "pic": "/images/Veg_FriedRice.jpg",
+      "latest": false
+    },
+    {
+      "id": 11,
+      "name": "Chicken Noodles",
+      "amnt": 150,
+      "shop": "Chinese Express",
+      "foodtype": "Non-Veg",
+      "pic": "/images/Chicken_Noodles.jpg",
+      "latest": true
+    },
+    {
+      "id": 12,
+      "name": "Ice Cream Sundae",
+      "amnt": 95,
+      "shop": "Sweet Treats",
+      "foodtype": "Dessert",
+      "pic": "/images/IceCream_Sundae.jpg",
+      "latest": false
+    },
+    {
+      "id": 13,
+      "name": "Samosa",
+      "amnt": 20,
+      "shop": "Street Snacks",
+      "foodtype": "Veg",
+      "pic": "/images/Samosa.jpg",
+      "latest": false
+    },
+    {
+      "id": 14,
+      "name": "Fish Curry",
+      "amnt": 210,
+      "shop": "Coastal Flavors",
+      "foodtype": "Non-Veg",
+      "pic": "/images/Fish_Curry.jpg",
+      "latest": true
+    },
+    {
+      "id": 15,
+      "name": "Pav Bhaji",
+      "amnt": 85,
+      "shop": "Mumbai Chat",
+      "foodtype": "Veg",
+      "pic": "/images/Pav_Bhaji.jpg",
+      "latest": false
+    },
+    {
+      "id": 16,
+      "name": "Chicken Shawarma",
+      "amnt": 140,
+      "shop": "Arabian Nights",
+      "foodtype": "Non-Veg",
+      "pic": "/images/Chicken_Shawarma.jpg",
+      "latest": true
+    },
+    {
+      "id": 17,
+      "name": "Tomato Soup",
+      "amnt": 60,
+      "shop": "Healthy Bowl",
+      "foodtype": "Veg",
+      "pic": "/images/Tomato_Soup.jpg",
+      "latest": false
+    },
+    {
+      "id": 18,
+      "name": "Cheese Sandwich",
+      "amnt": 75,
+      "shop": "Snack Hub",
+      "foodtype": "Veg",
+      "pic": "/images/Cheese_Sandwich.jpg",
+      "latest": false
+    },
+    {
+      "id": 19,
+      "name": "Butter Chicken",
+      "amnt": 230,
+      "shop": "North Indian Dhaba",
+      "foodtype": "Non-Veg",
+      "pic": "/images/Butter_Chicken.jpg",
+      "latest": true
+    },
+    {
+      "id": 20,
+      "name": "Lemon Juice",
+      "amnt": 40,
+      "shop": "Fresh Drinks",
+      "foodtype": "Beverage",
+      "pic": "/images/lemon_juice.jpg",
+      "latest": false
+    }
+  ]
